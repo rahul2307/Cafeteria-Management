@@ -1,4 +1,6 @@
 # Cafeteria-Management
+
+This file contains the code to maintain the cafeteria and its functioning. The username and password to login are:
 User Name:user
 Password:pass
 
